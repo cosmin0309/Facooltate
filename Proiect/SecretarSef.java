@@ -7,6 +7,9 @@ public class SecretarSef extends Secretar {
         super(numeSecretar, anSecretar, specializareSecretar);
     }
 
+    public SecretarSef() {
+    }
+
     public ArrayList<Adeverinta> getAdeverinteRespinse() {
         return adeverinteRespinse;
     }
