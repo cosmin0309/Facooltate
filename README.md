@@ -9,6 +9,7 @@ A School Repo
 -Image encryption  
 ***All of the above in c***
 # Java Project  
+An app for students requests to the secretary room  
 # OOP projects in C++
 # C Projects (Mostly Files, Binary Files, and Data Structures)
 # A Music Blog-like website
