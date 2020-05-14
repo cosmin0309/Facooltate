@@ -1,6 +1,6 @@
 # Facooltate
 A School Repo
-#AI Projects:
+#AI Projects:\n
 -Checkers
 -Water Bowls(Colors)
 -Machine Learning project about surgical masks detection(coming soon)
