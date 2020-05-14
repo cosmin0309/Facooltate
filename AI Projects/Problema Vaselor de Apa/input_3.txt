@@ -1,0 +1,8 @@
+a b n
+c d m
+stare_initiala
+4 4 a
+12 9 b
+1 0
+stare_finala
+3 n

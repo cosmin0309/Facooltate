@@ -1,0 +1,55 @@
+Stare initiala :
+
+0 : 4 4 a
+
+
+1 : 12 9 b
+
+
+2 : 1 0 None
+
+
+Din vasul 0 s-au turnat 1 litri de apa de culoare a in vasul 2
+
+0 : 4 3 a
+
+
+1 : 12 9 b
+
+
+2 : 1 1 a
+
+
+Din vasul 1 s-au turnat 1 litri de apa de culoare b in vasul 0
+
+0 : 4 4 n
+
+
+1 : 12 8 b
+
+
+2 : 1 1 a
+
+
+Din vasul 2 s-au turnat 1 litri de apa de culoare a in vasul 1
+
+0 : 4 4 n
+
+
+1 : 12 9 n
+
+
+2 : 1 0 None
+
+
+Din vasul 0 s-au turnat 1 litri de apa de culoare n in vasul 2
+
+0 : 4 3 n
+
+
+1 : 12 9 n
+
+
+2 : 1 1 n
+
+

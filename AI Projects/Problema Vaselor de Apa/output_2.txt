@@ -1,0 +1,16 @@
+Stare initiala :
+
+0 : 2 1 rosu
+
+
+1 : 3 2 galben
+
+
+2 : 2 0 None
+
+
+3 : 3 3 mov
+
+
+
+ Stara initiala este si starea finala 
