@@ -1,0 +1,12 @@
+nume, grupa
+Epure Cosmin-Andrei, 231
+Popescu Ion, 113
+Ionescu Maria, 352
+Petrescu Andrei, 451
+Georgescu Mihai, 122
+Marinescu Maria, 331
+Cristiano Ronaldo, 335
+Klauss Iohannis, 234
+Florin Salam, 235
+Mihai Eminescu, 135
+Ion Iliescu, 123

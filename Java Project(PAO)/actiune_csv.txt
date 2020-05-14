@@ -1,0 +1,9 @@
+nume_actiune, timestamp
+adaugare student 2020/05/06 00:34:09
+adaugare data pt adeverinta 2020/05/06 00:34:22
+Exit 2020/05/06 00:34:29
+trimitere adeverinte 2020/05/06 00:35:39
+print studenti 2020/05/06 00:36:03
+print secretari 2020/05/06 00:36:06
+print adeverinte gresite 2020/05/06 00:36:10
+Exit 2020/05/06 00:36:19
