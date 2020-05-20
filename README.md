@@ -12,7 +12,8 @@ A School Repo
 An app for students requests to the secretary room  
 # OOP projects in C++
 # C Projects (Mostly Files, Binary Files, and Data Structures)
-# A Music Blog-like website
+# A Music Blog-like website  
+The code and every image/sound is foun in views and in sneak pics there are   some screenshots of how it looks like
 # Computational Geometry :  
 **Problema1**:
 Fie Ai(xi,yi,zi) <= R^3, i∈1,3  
