@@ -3,7 +3,7 @@ A School Repo
 # AI Projects:
 -Checkers  
 -Water Bowls(Colors)  
--Machine Learning project about surgical masks detection(coming soon)  
+-Machine Learning project about surgical masks detection
 ***All of the above in python***  
 -Pattern Recognition(Hand written Numbers)  
 -Image encryption  
